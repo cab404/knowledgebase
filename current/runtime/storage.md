@@ -168,7 +168,7 @@ those that are transparent:
 | ------------------------------------------------------------------------------------------ | ------------- | ----------- |
 | [Blake2 128 Concat](https://crates.parity.io/frame_support/struct.Blake2_128Concat.html)   | X             | X           |
 | [TwoX 64 Concat](https://crates.parity.io/frame_support/struct.Twox64Concat.html)          |               | X           |
-| [Identity](https://crates.parity.io/frame_support/struct.Identity.html)                    |               |             |
+| [Identity](https://crates.parity.io/frame_support/struct.Identity.html)                    |               | X           |
 | [Blake2 128](https://crates.parity.io/frame_support/struct.Blake2_128.html) **DEPRECATED** | X             |             |
 | [TwoX 128](https://crates.parity.io/frame_support/struct.Twox128.html) **DEPRECATED**      |               |             |
 
